@@ -1,0 +1,14 @@
+layout_spectrum: 0.26854863320477307
+typography_spectrum: 0.9556871431414038
+color:
+  brandStrength: 0.8619953480083495
+  lightness: 0.8389995673205703
+  saturation: 0.21345962956547737
+  rhythmicContrast: 0.8280923594720662
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: powersportsUS
