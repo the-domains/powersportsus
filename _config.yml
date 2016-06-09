@@ -1,14 +1,14 @@
-layout_spectrum: 0.26854863320477307
+layout_spectrum: 0.7766599801834673
 typography_spectrum: 0.9556871431414038
 color:
-  brandStrength: 0.8619953480083495
-  lightness: 0.8389995673205703
-  saturation: 0.21345962956547737
-  rhythmicContrast: 0.8280923594720662
+  brandStrength: 0.2574555203318596
+  lightness: 0.9702702218201011
+  saturation: 0.8698021052405238
+  rhythmicContrast: 0.7023915972094983
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: powerSportsUS
